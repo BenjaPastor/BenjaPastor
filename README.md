@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaPastor
-- 👀 I’m interested in AI & Big Data
-- 🌱 I’m currently learning Python, Google Cloud IA, etc ... ;)
-- 💞️ I’m looking to collaborate on AI & Big Data proyects
+- 👀 I’m interested in Full Stack Development, AI & Big Data
+- 🌱 I’m currently learning Angular and NodeJs, Python, Google Cloud IA, etc ... ;)
+- 💞️ I’m looking to collaborate on FrontEnd development, BackEnd, AI & Big Data proyects
 - 📫 How to reach me: benja@infoaltea.net
 
 <!---
